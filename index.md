@@ -16,4 +16,4 @@ I help organizations that contract with the U.S. Department of Veterans Affairs 
 - **Interoperability & Data Standards** – Support for integrating VA data with FHIR/HL7-driven ecosystems.
 
 _If you’re a VA prime contractor or partner and need specialized support, feel free to reach out._  
-**Email:** chuck.sylvester.dev@gmail.com
+**Email:** [chuck.sylvester.dev@gmail.com](mailto:chuck.sylvester.dev@gmail.com)
