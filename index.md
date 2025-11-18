@@ -3,8 +3,7 @@ layout: page
 title: "Home"
 ---
 
-# Chuck Sylvester  
-**Independent Consultant – VA Health Data Engineering, VistA ETL, Analytics, AI/ML**
+## Welcome to my GitHub Pages Site
 
 I help organizations that contract with the U.S. Department of Veterans Affairs build and modernize health data pipelines, analytics solutions, and AI/ML models using VistA, CDW, and related VHA data sources.
 
