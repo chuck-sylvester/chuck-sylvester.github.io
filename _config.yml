@@ -1,7 +1,7 @@
 title: "Chuck Sylvester"
 description: "AI/ML Software Engineer"
 # theme: minima
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
 
 header_pages:
   - about.md
