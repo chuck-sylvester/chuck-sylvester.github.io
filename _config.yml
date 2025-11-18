@@ -2,4 +2,9 @@ title: "Chuck Sylvester"
 description: "Independent Consultant - VA Health Data Engineering, VistA ETL, Analytics, AI/ML"
 theme: minima
 
+collections:
+  portfolio:
+    output: true
+    permalink: /portfolio/:name/
+
 # Optional: add your GitHub, LinkedIn, etc. later
