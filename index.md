@@ -1,18 +1,13 @@
 ---
 layout: page
-# title: "Home"
+title: "Home"
 ---
 
-## Welcome to my GitHub Pages Site
+👋 &nbsp; Hello, and welcome to my GitHub Pages site.  
 
-I help organizations that contract with the U.S. Department of Veterans Affairs build and modernize health data pipelines, analytics solutions, and AI/ML models using VistA, CDW, and related VHA data sources.
+This site provides an overview of seveal things I'm working on in the field of Artificial Intelligence, Machine Learning, and Software Engineering.  
 
-## How I Can Help
+The **_Blog_** section captures musings and technical thoughts, and the **_Portfolio_** section showcases a few projects in the works.  
 
-- **VistA & CDW ETL Pipelines** – Design and implementation of robust Python/SQL-based pipelines to move, clean, and structure VA data for reporting and analytics.
-- **Healthcare Analytics & Reporting** – Development of analytic datasets, dashboards, and reports to support VHA operations, utilization, and cost analysis.
-- **AI/ML for VA Data** – Prototyping and implementing machine learning models on VA health data (e.g., risk stratification, utilization forecasting, anomaly detection).
-- **Interoperability & Data Standards** – Support for integrating VA data with FHIR/HL7-driven ecosystems.
-
-_If you’re a VA prime contractor or partner and need specialized support, feel free to reach out._  
+If you would like to collaborate or talk about any of these topics, feel free to reach out at the email address below.  
 **Email:** [chuck.sylvester.dev@gmail.com](mailto:chuck.sylvester.dev@gmail.com)

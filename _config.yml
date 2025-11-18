@@ -1,11 +1,11 @@
 title: "Chuck Sylvester"
-description: "AI/ML Software Engineer building tools to enable healthcare insights and improved outcomes"
+description: "AI/ML Software Engineer"
 theme: minima
 
 header_pages:
   - about.md
-  - portfolio.md
   - blog.md
+  - portfolio.md
 
 collections:
   portfolio:
