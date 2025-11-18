@@ -1,0 +1,15 @@
+---
+---
+
+@import "minima";
+
+// Override colors
+$brand-color: #005ea2;    // Example: VA blue
+$text-color: #333;
+$link-color: #005ea2;
+$link-hover-color: #003d73;
+
+// Additional custom styles
+body {
+  background-color: #f7f7f7;
+}
