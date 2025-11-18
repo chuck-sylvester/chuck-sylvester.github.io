@@ -2,9 +2,6 @@ title: "Chuck Sylvester"
 description: "AI/ML Software Engineer"
 theme: minima
 
-sass:
-  sass_dir: assets/css
-
 header_pages:
   - about.md
   - blog.md
