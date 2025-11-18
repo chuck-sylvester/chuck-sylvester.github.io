@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Home"
+# title: "Home"
 ---
 
 ## Welcome to my GitHub Pages Site
