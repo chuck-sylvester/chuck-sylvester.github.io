@@ -4,8 +4,7 @@ title: "About"
 permalink: /about/
 ---
 
-# About
-👋 &nbsp; Hi, I’m Chuck Sylvester — a technical project manager, solution architect, and hands-on AI/ML engineer based in Northern Virginia.
+Hi, I’m Chuck Sylvester — a technical project manager, solution architect, and hands-on AI/ML engineer based in Northern Virginia.
 
 For more than three decades I’ve helped government and enterprise teams design, build, and modernize large-scale, data-driven systems, with a particular focus on healthcare, financial services, and fraud detection. A lot of my work has centered on Veterans Affairs and DoD health data sharing, where I’ve led teams building applications that help clinicians and analysts see a clearer, more connected view of patient information.
 
