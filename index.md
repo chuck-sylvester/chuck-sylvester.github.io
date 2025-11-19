@@ -3,7 +3,7 @@ layout: page
 title: "Home"
 ---
 
-👋 &nbsp; Hello, and welcome to my GitHub Pages site.  
+👋 &nbsp; Hello, and welcome.  
 
 This site provides an overview of seveal things I'm working on in the field of Artificial Intelligence, Machine Learning, and Software Engineering.  
 

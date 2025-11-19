@@ -4,7 +4,7 @@ theme: minima
 
 header_pages:
   - about.md
-  - blog.md
+  - research.md
   - portfolio.md
 
 collections:
