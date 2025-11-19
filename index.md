@@ -3,7 +3,9 @@ layout: page
 title: "Home"
 ---
 
-👋 &nbsp; Hello, and welcome to my GitHub Pages site.  
+Hello, and welcome to my GitHub Pages site.
+
+![CPS Eyre Square](eyre-square.jpeg)
 
 This site provides an overview of seveal things I'm working on in the field of Artificial Intelligence, Machine Learning, and Software Engineering.  
 
