@@ -3,6 +3,7 @@ description: "AI/ML Software Engineer"
 theme: minima
 
 header_pages:
+  - index.md
   - about.md
   - research.md
   - portfolio.md
