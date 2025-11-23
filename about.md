@@ -10,7 +10,7 @@ For more than three decades I’ve helped government and enterprise teams design
 
 **_Who Have I worked for?_** I few of the companies I've worked for include _Electronic Data Systems_, _The Executive Office of the President_, _Magellan Health Services_, _Patriot Technologies_, _Harris Corporation_, and _Liberty IT Solutions_.
 
-**_Do I know anyone famous?_** No 😊
+**_Do I know anyone famous?_** No, but I did hang out with Tony Alva at a skateboard park in Florida many year ago (look him up...). 😊
 
 I sit at the intersection of architecture, delivery, and code. I’m comfortable in the weeds with Python, Java, JavaScript, SQL, ETL pipelines, HL7/FHIR, and cloud services on Azure and AWS, and I’ve also spent many years leading cross-functional teams, managing multi-million-dollar project portfolios, and working directly with stakeholders to translate real-world problems into working software.
 
