@@ -8,8 +8,8 @@ header_pages:
   - med-insight.md
 
 collections:
-  portfolio:
+  med-insight:
     output: true
-    permalink: /portfolio/:name/
+    permalink: /med-insight/:name/
 
 # Optional: add your GitHub, LinkedIn, etc. later
