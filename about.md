@@ -12,6 +12,8 @@ I sit at the intersection of architecture, delivery, and code. I’m comfortable
 
 I’m a continual learner and spend a fair amount of time experimenting with AI/ML tools, contributing to side projects, and refining my craft as an engineer and architect.  
 
-My current pet project is a full end-to-end reference application that demonstrates data pipelines, AI and machine learning in the healthcare domain, and the presentation of AI-enabled findings within a modern Python + FastAPI + HTMX dashboard. For more information, take a look at the **_Med-Insight_** link above or my personal GitHub link below.  
+My current pet project is a full end-to-end reference application that demonstrates data pipelines, AI and machine learning in the healthcare domain, and the presentation of AI-enabled findings within a modern Python + FastAPI + HTMX dashboard.  
+
+For more information, take a look at the **_Med-Insight_** link above or my personal GitHub link below.  
 
 [https://github.com/chuck-sylvester](https://github.com/chuck-sylvester)
