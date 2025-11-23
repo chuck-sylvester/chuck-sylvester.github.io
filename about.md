@@ -10,4 +10,4 @@ For more than three decades I’ve helped government and enterprise teams design
 
 I sit at the intersection of architecture, delivery, and code. I’m comfortable in the weeds with Python, Java, JavaScript, SQL, ETL pipelines, HL7/FHIR, and cloud services on Azure and AWS, and I’ve also spent many years leading cross-functional teams, managing multi-million-dollar project portfolios, and working directly with stakeholders to translate real-world problems into working software.
 
-I’m a continual learner and spend a fair amount of my own time experimenting with AI/ML tools, contributing to side projects, and refining my craft as an engineer and architect.
+I’m a continual learner and spend a fair amount of time experimenting with AI/ML tools, contributing to side projects, and refining my craft as an engineer and architect. My current pet project is a full end-to-end reference application that demonstrates data pipelines, AI and machine learning in the healthcare domain, and the presentation of AI-enabled findings within a modern Python + FastAPI + HTMX dashboard. For more information on this project, take a look at the **_Med-Insight_** link above. 
