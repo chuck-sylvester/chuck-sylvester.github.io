@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Med Insight
+title: Med-Insight
 permalink: /med-insight/
 ---
 
