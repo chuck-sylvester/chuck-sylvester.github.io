@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Portfolio
-permalink: /portfolio/
+title: Med Insight
+permalink: /med-insight/
 ---
 
 Here are some representative projects that demonstrate my work in health data engineering, artificial intelligence, and machine learning.
