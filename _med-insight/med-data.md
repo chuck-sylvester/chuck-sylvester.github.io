@@ -1,9 +1,9 @@
 ---
 layout: page
-title: VistA to Parquet ETL Pipeline
+title: Med-Data
 ---
 
-# VistA to Parquet ETL Pipeline
+# Med-Data Subsystem
 
 (Describe the project: goals, tech stack, your role, outcomes, etc.)
 
