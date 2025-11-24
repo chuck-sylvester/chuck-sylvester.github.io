@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Med-Data
+title: Med-Insight • Med-Data Subsystem
 ---
 
 # Med-Data Subsystem

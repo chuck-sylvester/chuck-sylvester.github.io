@@ -14,3 +14,5 @@ The complete Med-Insight application consists of four subsystems:
 * [**med-etl:**](/med-insight/med-etl/) ETL functionality to retreive, process, and store data in a data mart
 * [**med-ml:**](/med-insight/med-ml/) AI and Machine learning layer
 * [**med-view:**](/med-insight/med-view/) Web UI for medical data analysis, reporting, and visualization
+
+[https://github.com/cps-med/med-insight](https://github.com/cps-med/med-insight)
