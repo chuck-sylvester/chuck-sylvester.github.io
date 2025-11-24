@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Med-ETL
+title: Med-Insight
 ---
 
 # Med-ETL Subsystem

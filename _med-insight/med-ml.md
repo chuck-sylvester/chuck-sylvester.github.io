@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Med-ML
+title: Med-Insight
 ---
 
 # Med-ML Subsystem

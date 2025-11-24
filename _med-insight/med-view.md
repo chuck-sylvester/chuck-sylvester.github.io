@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Med-View
+title: Med-Insight
 ---
 
 # Med-View Subsystem
