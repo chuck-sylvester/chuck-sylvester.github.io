@@ -9,9 +9,9 @@ title: Med-Insight
 
 It performs two primary functions:
 
-* **Data Preparation Pipeline** - Extracts mock VA healthcare data from source systems, transforms/cleans it according to business rules, and loads prepared data into target databases for consumption by downstream applications (e.g., **med-risk** - a future medication risk management application).
+* **Data Preparation Pipeline** - Extracts mock VA healthcare data from source systems, transforms/cleans it according to business rules, and loads prepared data into target databases for consumption by downstream applications.  
 
-* **ASCII Extract Generation** - Generates fixed-width ASCII files for various healthcare domains. This serves as a learning tool for Python, SQL Server, and data processing skill development and will be retained as the application evolves.
+* **ASCII Extract Generation** - Generates fixed-width ASCII files for various healthcare domains.  
 
 The Med-ETL technology stack includes Python 3.11, SQL Server 2019, MinIO, and Docker Desktop.
 
